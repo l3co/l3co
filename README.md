@@ -1,16 +1,35 @@
-## Hi there 👋
+Hello, I’m Leco! 👋
 
-<!--
-**l3co/l3co** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a developer passionate about learning, creating, and solving problems. Based in São Paulo, I’ve dedicated my career to delivering high-quality solutions that positively impact people and businesses. My journey is marked by a constant pursuit of innovation, technical excellence, and social impact.
 
-Here are some ideas to get you started:
+💻 My Professional Mission
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Delivering value through well-designed systems with a focus on security, scalability, and quality. I have worked on challenging projects that demanded cutting-edge technology and modern development practices. Here are a few examples:
+	•	🛡️ Fraud Prevention Platform for E-commerce
+Developed a platform that used statistical analysis and purchase history to identify suspicious behavior and ensure secure transactions.
+	•	🌍 Desaparecidos.me Platform
+Designed and developed a platform to help families find missing loved ones. The solution integrated facial recognition systems, search APIs, and geolocation, along with a user-friendly web interface for sharing information.
+
+🎓 Academic Background
+
+	•	Bachelor’s Degree in Systems Analysis and Development – UNOPAR
+	•	MBA in Leadership and Management – Descomplica (in progress)
+	•	Bachelor’s Degree in Production Engineering – Univesp (in progress)
+
+🛠️ Technologies I’ve Worked With
+
+Throughout my career, I’ve used a wide range of technologies and tools to tackle complex problems:
+	•	Languages: Ruby, Python, Java, Kotlin, JavaScript, TypeScript.
+	•	Frameworks: Spring, Ruby on Rails, Node.js, Asp.net.
+	•	Tools: Docker, Kubernetes, Pentaho, Cucumber, Gherkin.
+	•	Other Practices: Clean Code, refactoring, CI/CD, monitoring.
+
+🌟 Skills and Achievements
+
+	•	Technical Leadership: Guiding teams to deliver scalable and high-quality solutions.
+	•	Process Automation: Developing tools to optimize repetitive tasks and increase efficiency.
+	•	Architectural Design: Planning and executing robust, scalable solutions.
+
+🌱 About Me
+
+In my free time, I enjoy exploring topics like theology, philosophy, mathematics, and statistics. I also have a strong interest in creative projects, such as writing and drawing. My work is guided by Christian values of integrity, respect, and excellence.
