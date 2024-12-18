@@ -19,7 +19,7 @@ Led the development of a system that integrated product catalogs with advertisin
 
 • Bachelor’s Degree in Systems Analysis and Development – UNOPAR
 
-• MBA in Leadership and Management – Descomplica (in progress)
+• MBA in Leadership and Management – Descomplica
 
 • Bachelor’s Degree in Production Engineering – Univesp (in progress)
 
